@@ -1,0 +1,14 @@
+# Raw mass-spectrometry data
+data/raw/
+
+# Large processed data
+data/processed/
+
+# R temporary/session files
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS files
+Thumbs.db
+.DS_Store
