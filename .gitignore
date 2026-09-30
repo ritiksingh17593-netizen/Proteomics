@@ -1,8 +1,18 @@
 # Raw mass-spectrometry data
 data/raw/
+*.mzML
+*.raw
 
 # Large processed data
 data/processed/
+
+# Reference Databases
+*.fasta
+*.fasta.gz
+
+# DIA-NN Heavy Outputs
+*.parquet
+*.quant
 
 # R temporary/session files
 .Rhistory

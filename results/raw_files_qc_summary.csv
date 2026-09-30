@@ -1,0 +1,7 @@
+"file_name","total_spectra","ms1_scans","ms2_scans","rt_start_min","rt_end_min"
+"DIA_iMN_dNLS_2uL_r1.mzML.xml",92802,3201,89601,0,120
+"DIA_iMN_dNLS_2uL_r2.mzML.xml",92809,3201,89608,0,120
+"DIA_iMN_dNLS_2uL_r3.mzML.xml",92785,3200,89585,0,120
+"DIA_iMN_WT_2uL_r4.mzML.xml",92851,3202,89649,0,120
+"DIA_iMN_WT_2uL_r5.mzML.xml",92856,3202,89654,0,120
+"DIA_iMN_WT_2uL_r6.mzML.xml",92873,3203,89670,0,120
