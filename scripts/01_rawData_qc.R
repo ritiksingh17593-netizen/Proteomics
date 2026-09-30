@@ -45,6 +45,3 @@ print(qc_table)
 # 3. Export QC metrics to your results folder
 dir.create("results", showWarnings = FALSE)
 write.csv(qc_table, file.path("results", "raw_files_qc_summary.csv"), row.names = FALSE)
-
-
-BiocManager::install("Spectra")
